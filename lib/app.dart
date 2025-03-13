@@ -86,7 +86,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Navigator.pushNamed(
                   context,
                   '/create_event',
-                  arguments: _reloadEvents, // Pass the callback
+                  arguments: _reloadEvents, 
                 );
               },
               child: const Text('Create Event'),
