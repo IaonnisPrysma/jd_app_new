@@ -1,6 +1,8 @@
 # jd_app_new
  Sudor y lágrimas de una primera app en Flutter por motivos laborales
 
+NOTA: Contrario a lo que pueda parecer, sí hubo una implementación de Firebase; pero no tengo acceso a "Storage" entonces igual no podía subir nada
+
 ![alt text](https://i.imgur.com/nW0d4wf.png)
 
 COPY de Release:
